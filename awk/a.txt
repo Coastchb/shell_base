@@ -1,0 +1,5 @@
+a aa -1
+b bb 0
+c cc -1
+d dd 3
+e ee -1
